@@ -7,7 +7,7 @@ public class GeneralBehaviour : MonoBehaviour
 	/// <summary>
 	/// Occurs when event shoot.
 	/// </summary>
-	public static event Action<string> eventShoot; /// Evento para pode atirar
+	public static event Action<string> eventShoot; /// Evento para poder atirar
 
 	/// <summary>
 	/// The animation.
